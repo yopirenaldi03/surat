@@ -6,7 +6,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-envelope"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">E-Arsip <br>SMK Darel Hikmah</div>
+        <div class="sidebar-brand-text mx-3">E-Arsip <br>WILMAR</div>
     </a>
 
     <!-- Divider -->
@@ -128,7 +128,7 @@
     } ?>">
         <a class="nav-link" href="<?= base_url('admin/about') ?>">
             <i class="fas fa-fw fa-info-circle"></i>
-            <span>Tentang Sekolah</span>
+            <span>Tentang WILMAR</span>
         </a>
     </li>
     <hr class="sidebar-divider d-none d-md-block">

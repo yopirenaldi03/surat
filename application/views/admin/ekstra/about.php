@@ -23,9 +23,14 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col text-center m-5">
-                                <img src="<?= base_url('vendor/') ?>img/logo.jpg" width="100"><br><small><i>Logo SMK Darel Hikmah</i></small><br><br>
-                                <p style="text-align: justify;">SMK Darel Hikmah terletak di wilayah Kotamadya Pekanbaru, sekitar 12 km dari pusat kota Pekanbaru ke arah Barat. Dengan menempati lahan seluas 4,5 ha. Sekolah ini didirikan di atas lahan milik H. Abdullah yang strategis karena berdekatan dengan lembaga pendidikan lain seperti Universitas Riau (UNRI) sebelah barat, dan Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) sebelah selatan.
-                                    Atas persetujuan Walikota Pekanbaru dan Gubernur Riau pada tahun 1991, dibangun ruangan gedung untuk fasilitas pendidikan dan asrama yang dikelola oleh Yayasan Nur Iman Pekanbaru.
+                                <img src="<?= base_url('vendor/') ?>img/wilmar-international-logo.png" width="100"><br><small><i>Logo WILMAR</i></small><br><br>
+                                <p style="text-align: justify;">Multivision Tower, Jl. Kuningan Mulia No.Kav.9-B Lt.12, Guntur, Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12980
+                                </p>
+                                <p style="text-align: justify;">Wilmar International Limited[1] adalah grup perusahaan agribisnis Singapura yang didirikan tahun 1991 oleh pengusaha Singapura dan pengusaha kelahiran Indonesia. Perusahaan ini merupakan salah satu perusahaan terdaftar terbesar menurut kapitalisasi pasar di Bursa Efek Singapura.[2] Wilmar merupakan perusahaan holding investasi yang menyediakan jasa manajemen untuk lebih dari 400 anak perusahaannya.[3] Perusahaan ini menempati peringkat 252 dalam daftar Fortune Global 500 pada tahun 2015.[4]
+
+                                Aktivitas Wilmar meliputi perkebunan kelapa sawit, penyulingan minyak masakan, penggilingan biji minyak, pemrosesan dan pengepakan minyak masakan konsumsi, lemak, oleokimia, dan biodiesel, serta pemrosesan dan pengepakan gandum. Wilmar memiliki lebih dari 450 pabrik dan jaringan distribusi di seluruh Tiongkok, India, Indonesia, dan 50 negara lainnya. Grup perusahaan ini memiliki kurang lebih 92.000 karyawan dari berbagai negara.
+
+                                Sektor pemrosesan dan pengepakan Wilmar mencakup produk minyak sawit dan laurat; pemrosesan, penyulingan, dan penggilingan minyak sawit; dan pemrosesan dan penyulingan minyak masakan, biji minyak, gandum, dan kacang kedelai. Sektor produk konsumsinya mencakup pabrik botol minyak di Republik Rakyat Tiongkok, Vietnam, dan Indonesia. Sektor perkebunan dan penggilingan sawitnya mencakup pembiakan dan penggilingan kelapa sawit. Sektor lainnya meliputi manufaktur dan distribusi pupuk dan jasa sewa kapal.
                                 </p>
                             </div>
                             <div class="col m-5">
@@ -33,18 +38,28 @@
                                     <h4>Visi dan Misi</h4>
                                 </center>
                                 <h3>Visi</h3>
-                                <p>Visi Sekolah adalah imajinasi moral yang dijadikan dasar atau rujukan dalam menentukan tujuan atau keadaan masa depan sekolah yang secara khusus diharapkan oleh Sekolah. Visi Sekolah merupakan turunan dari Visi Pendidikan Nasional, yang dijadikan dasar atau rujukan untuk merumuskan Misi, Tujuan sasaran untuk pengembangan sekolah dimasa depan yang diimpikan dan terus terjaga kelangsungan hidup dan perkembangannya.
-                                    Adapaun visi SMK Darel Hikmah : <b>Aktif</b>, <b>Kreatif</b>, <b>Antusias</b>, <b>Bersih</b> dan <b>Religius</b> (<b>AKBAR</b>).
+                                <p>Untuk menjadi Perusahaan Kelas Dunia dalam industri minyak
+                                        nabati dan minyak nabati spesialitas.
+                                        To become a World Class Company in the industry of vegetable oils
+                                        and specialty use vegetable oils.
                                 </p>
                                 <h3>Misi</h3>
-                                <ol>
-                                    <li>Mendorong aktifitas dan kreatifitas secara optimal kepada seluruh komponen sekolah terutama para siswa.</li>
-                                    <li>Mengoptimalkan pembelajaran dalam rangka meningkatkan keterampilan siswa supaya mereka memiliki prestasi yang dapat dibanggakan.</li>
-                                    <li>Melaksanakan pembelajaran dan bimbingan secara efektif sehingga kecerdasan siswa terus diasah agar terciptanya kecerdasan intelektual dan emosional yang mantap.</li>
-                                    <li>Antusias terhadap perkembangan dan kemajuan ilmu pengetahuan dan teknologi.</li>
-                                    <li>Menanamkan cinta kebersihan dan keindahan kepada semua komponen sekolah.</li>
-                                    <li>Menimbulkan penghayatan yang dalam dan pengalaman yang tinggi terhadap ajaran agama (Religi) sehingga tercipta kematangan dalam berfikir dan bertindak.</li>
-                                </ol>
+                                <p>PT Wilmar Cahaya Indonesia Tbk mempunyai misi untuk
+                                    menghasilkan produk bermutu tinggi dan memberikan layanan
+                                    terbaik terhadap semua pelanggan; meningkatkan kompetensi dan
+                                    keterlibatan karyawan dalam pencapaian visi tersebut; mencapai
+                                    pertumbuhan usaha yang menguntungkan dan berkelanjutan
+                                    serta memberikan nilai jangka panjang bagi pemegang saham dan
+                                    karyawan; meningkatkan kepercayaan dan membina hubungan
+                                    yang baik dengan agen, pemasok, masyarakat dan pemerintah.
+                                    PT Wilmar Cahaya Indonesia Tbk has missions, to produce high quality
+                                    products and provide the best services to all customers; to improve
+                                    employees’ competence and engagement in achieving its vision;
+                                    to achieve profitable and sustainable business growth as well as to
+                                    provide longterm values for shareholders and employees; to build trust
+                                    and develop good relationships with agents, suppliers, communities
+                                    and goverments
+                                </p>
                             </div>
                         </div>
                     </div>

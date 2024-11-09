@@ -16,9 +16,9 @@
                             <label>Pengisi disposisi</label>
                             <select name="pengisi" id="pengisi" class="form-control" required>
                                 <option value="<?php echo $ds->pengisi ?>">-- <?php echo $ds->pengisi ?> --</option>
-                                <option value="Kepala Sekolah">Kepala Sekolah</option>
+                                <option value="Kepala Legal">Kepala Sekolah</option>
                                 <option value="Staff Tata Usaha">Staff Tata Usaha</option>
-                                <option value="Wakil Kurikulum">Wakil Kurikulum</option>
+                               
                             </select>
                             <small><span class="text-danger text-small" id="alertpengisi"></span></small>
                         </div>

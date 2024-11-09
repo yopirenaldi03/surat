@@ -28,7 +28,7 @@
                                 <div class="well well-sm">
                                     <div class="row">
                                         <?php foreach ($profil as $p) : ?>
-                                            <img src="<?= base_url('vendor/files/profilimg/' . $p->image) ?>" alt="User profil" height="200" class="img-rounded img-responsive" />
+                                            <img src="<?= base_url('vendor/files/profilimg' . $p->image) ?>" alt="User profil" height="200" class="img-rounded img-responsive" />
                                             <div class="col-md-6">
                                                 <h4>
                                                     <?= $p->nama_lengkap ?></h4>

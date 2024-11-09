@@ -49,7 +49,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @category	Database
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/user_guide/database/
- */
+ */#[\AllowDynamicProperties]
 abstract class CI_DB_driver {
 
 	/**
